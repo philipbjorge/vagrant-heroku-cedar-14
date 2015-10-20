@@ -2,8 +2,8 @@
 
 echo "=== Begin Vagrant Provisioning using 'config/vagrant/ruby_setup.sh'"
 
-RUBY_VERSION='2.1.5'
-GEMS_VERSION='2.2.2'
+RUBY_VERSION='2.2.3'
+GEMS_VERSION='2.4.8'
 
 # Setup Ruby using rbenv
 echo "===== Installing Ruby $RUBY_VERSION"
